@@ -38,7 +38,7 @@ const config = {
 
   externals: webpackUMDExternal({
     react: 'React',
-    'swipe-js-iso': 'Swipe'
+    swipejs: 'Swipe'
   }),
 
   resolve: {

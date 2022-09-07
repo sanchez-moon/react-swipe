@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
-import Swipe from 'swipe-js-iso';
+import Swipe from 'swipejs';
 import isEqual from 'lodash.isequal';
 
 class ReactSwipe extends Component {
