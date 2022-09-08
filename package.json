@@ -1,6 +1,6 @@
 {
   "name": "@sanchez-moon/react-swipe",
-  "version": "6.0.5",
+  "version": "6.0.6",
   "description": "Brad Birdsall's Swipe.js as a React component",
   "homepage": "https://github.com/voronianski/react-swipe",
   "keywords": [
@@ -16,9 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/voronianski/react-swipe.git"
+    "url": "git://github.com:sanchez-moon/react-swipe.git"
   },
   "main": "./lib/index.js",
+  "types": "./@types/index.d.ts",
   "license": "MIT",
   "engines": {
     "node": ">=8.0.0",
